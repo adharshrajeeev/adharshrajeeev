@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Web Applications**
 
-- 💬 Ask me about **Javascript, NodeJs, ExpressJs**
+- 💬 Ask me about **Javascript, NodeJs, ExpressJs and React**
 
 - 📫 How to reach me **adharshrajeeev2000@gmail.com**
 
