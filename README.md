@@ -1,82 +1,123 @@
------------------------------------------------------
-👋 Header
------------------------------------------------------
+# 👋 Hi, I'm Adharsh R
 
-Hi, I'm Adharsh 👋
-Product & AI Engineer from Kochi, India.
+### Product & AI Engineer • Full Stack Developer • Kochi, India 🇮🇳
 
-I build AI-powered products, workflow automations, and full-stack applications that solve real-world problems.
+I build **AI-powered products**, **workflow automations**, and **full-stack applications** that solve real business problems.
 
-Portfolio
-LinkedIn
-Email
+I'm passionate about turning ideas into polished products—from designing intuitive interfaces to building scalable backends and integrating modern AI.
 
------------------------------------------------------
-🚀 What I'm Building
------------------------------------------------------
+---
 
-• AI Workflows & Automations
-• Full Stack Applications
-• AI Agents
-• React / Next.js
-• Node.js APIs
-• AWS Deployments
+## 🌐 Find Me
 
------------------------------------------------------
-⭐ Featured Projects
------------------------------------------------------
+🌍 **Portfolio:** https://adharshr.in
 
-💰 EMI Analyzer
-Instantly analyzes salary slips and estimates home loan eligibility.
+💼 **LinkedIn:** https://linkedin.com/in/adharsh-r-364745206
 
-👨‍👩‍👧 Speak2Family
-Helping families communicate in their own language.
+📧 **Email:** [adharshrajeeev2000@gmail.com](mailto:adharshrajeeev2000@gmail.com)
 
-🧪 CrackYC Labs
-Experiments with AI, automation and useful developer tools.
+---
 
------------------------------------------------------
-🛠 Tech Stack
------------------------------------------------------
+# 🚀 What I Build
 
-Frontend
-Backend
-AI
-Database
-Cloud
-Tools
+* 🤖 AI Agents & Intelligent Automations
+* ⚡ Full Stack Web Applications
+* 🧠 Prompt Engineering & LLM Integrations
+* 🔄 Workflow Automation
+* ☁️ Cloud Deployments & APIs
+* 📱 Modern React & Next.js Applications
 
-(using icons only)
+---
 
------------------------------------------------------
-📈 GitHub Stats
------------------------------------------------------
+# ⭐ Featured Projects
 
-GitHub Stats
+## 💰 EMI Analyzer
 
-Contribution Graph
+Analyze salary slips and instantly estimate home loan eligibility using AI.
 
-(no trophies)
+**Tech:** React • Next.js • Node.js • AI
 
------------------------------------------------------
-💡 Currently Exploring
------------------------------------------------------
+---
 
-• AI Agents
-• MCP
-• Prompt Engineering
-• LangGraph
-• RAG
-• Agentic Systems
+## 👨‍👩‍👧 Speak2Family
 
------------------------------------------------------
-☕ Fun Facts
------------------------------------------------------
+An AI-powered platform helping families communicate across languages.
 
-⚡ I love building products from ideas.
+**Tech:** React • Node.js • AI
 
-🤖 I automate boring work.
+---
 
-📚 I write about AI.
+## 🧪 CrackYC Labs
 
-🏃 Currently training while building side projects.
+A collection of AI experiments, developer tools, and productivity workflows.
+
+---
+
+# 🛠 Tech Stack
+
+### Frontend
+
+React • Next.js • TypeScript • JavaScript • Tailwind CSS
+
+### Backend
+
+Node.js • Express • PostgreSQL • MongoDB • Firebase
+
+### AI
+
+OpenAI • Claude • MCP • LangGraph • RAG • Prompt Engineering
+
+### Cloud
+
+AWS • Vercel • Docker
+
+### Tools
+
+Git • GitHub • Figma • Postman
+
+---
+
+# 🌱 Currently Exploring
+
+* AI Agents
+* Model Context Protocol (MCP)
+* LangGraph
+* Retrieval-Augmented Generation (RAG)
+* Multi-Agent Systems
+* AI Product Engineering
+
+---
+
+# 📈 GitHub Stats
+
+(Add your GitHub Stats cards here.)
+
+---
+
+# ✍️ Latest Writing
+
+I regularly share insights on:
+
+* Artificial Intelligence
+* Automation
+* Developer Productivity
+* Building SaaS Products
+* Prompt Engineering
+
+Visit my blog:
+
+👉 https://adharshr.in
+
+---
+
+# ☕ Beyond Code
+
+⚡ Building products from ideas
+
+🤖 Automating repetitive work
+
+📚 Writing about AI & technology
+
+🏃 Fitness enthusiast
+
+🌱 Always learning, always shipping
